@@ -1,6 +1,6 @@
 Attribute VB_Name = "SFConversionsForExcel"
 ' ======================================================================================
-' @file     SFConversionsForExcel
+' @file     SFconversionsExcelAddin
 ' @ingroup  Excel Addins
 ' @author   Jack D. Pond (jack.pond@psitex.com)
 '

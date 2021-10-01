@@ -1,4 +1,4 @@
-# SFconversionsExcelAddin
+# SFConversionsForExcel
 
 An add-in extension for Microsoft Excel containing conversion formulas:
 
@@ -7,15 +7,15 @@ An add-in extension for Microsoft Excel containing conversion formulas:
 
 ## Install - Add as an Excel Extension
 
-To enable this as an extension, download the [SFConversionsForExcelExtension.xlam](https://github.com/jdpond/SFUtilitiesForExcel/SFconversionsExcelAddin/blob/main/SFConversionsForExcel.xlam) file to your Excel Extension directory:
+To enable this as an extension, download the [SFConversionsForExcelExtension.xlam](https://github.com/jdpond/SFUtilitiesForExcel/Sfconversionsforexcelextension/blob/main/SFConversionsForExcel.xlam) file to your Excel Extension directory:
 
 `C:\Users\[Your User]\AppData\Roaming\Microsoft\AddIns`
 
 Then activate it with:
 
-`Developer-->Excel Add-Ins-->SFconversionsExcelAddin(Checkbox)`
+`Developer-->Excel Add-Ins-->Sfconversionsforcxcelextension(Checkbox)`
 
 (You may have to enable the Developer tab on your ribbon by right clicking on the ribbon, Customize Ribbon-->Developer(Checkbox)
 
 ## Just the Code
-The code is visible in the Visual basic file, [SFconversionsExcelAddin.bas]https://github.com/jdpond/SFUtilitiesForExcel/Sfconversionsforexcelextension/blob/main/SFConversionsForExcel.bas)
+The code is visible in the Visual basic file, [SFConversionsForExcelExtension.bas]https://github.com/jdpond/SFUtilitiesForExcel/Sfconversionsforexcelextension/blob/main/SFConversionsForExcel.bas)  
