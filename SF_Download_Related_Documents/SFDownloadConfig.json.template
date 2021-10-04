@@ -5,8 +5,4 @@
     "SF_Username": "[API User (Must have API Enabled with Query All Files and View All Data Permissions)]",
     "SF_Password": "[your password here]",
     "SF_Security_Token": "[from View Profile-->My Personal Information-->Reset My Security Token]",
-    "SF_API_Version": "v53.0",
-    "SF_JSON_DEBUG": false,
-    "SF_DOWNLOAD_SNOTE": true,
-    "SF_Latest_Version_Only": false
 }

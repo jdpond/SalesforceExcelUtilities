@@ -1,3 +1,13 @@
+# SFDownloadFiles
+
+SFDownloadFiles is an Excel Utility to download multiple files of all types from salesforce into a structured directory.
+
+This utility was created to use a report of objects (Usually Cases) to download all files related to those objects into a structured directory with a folder for each object's files.
+
+It works just as well if you just have a list of Content Document Links, or if you want, to download all files into the same directory.
+
+For installation, configuration, and using this utility, see [SFDownloadFiles](https://github.com/jdpond/SFConversionsForExcel/wiki/SFDownloadFiles-User-Guide)
+
 # SFconversionsExcelAddin
 
 An add-in extension for Microsoft Excel containing conversion formulas:
