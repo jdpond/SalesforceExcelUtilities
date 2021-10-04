@@ -1,3 +1,7 @@
+Excel Utilities to facilitate Salesforce interaction including:
+* [Download all files related to lists of Objects into structured directories](#sfdownloadfiles)
+* [Conversion formulas for use with MS Excel](#sfconversionsexceladdin) Convert between long and short IDs
+
 # SFDownloadFiles
 
 SFDownloadFiles is an Excel Utility to download multiple files of all types from salesforce into a structured directory.
