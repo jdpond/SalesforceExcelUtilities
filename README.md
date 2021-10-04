@@ -1,5 +1,5 @@
 Excel Utilities to facilitate Salesforce interaction including:
-* [Download all files related to lists of Objects into structured directories](#sfdownloadfiles)
+* [Download all files related to lists of Objects into structured directories](#sfdownloadfiles) [(SFDownloadFiles User Guide)](https://github.com/jdpond/SalesforceExcelUtilities/wiki/SFDownloadFiles-User-Guide)
 * [Conversion formulas for use with MS Excel](#sfconversionsexceladdin) Convert between long and short IDs
 
 # SFDownloadFiles
