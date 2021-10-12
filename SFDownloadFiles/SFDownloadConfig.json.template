@@ -4,5 +4,5 @@
     "SF_Consumer_Secret": "[from Apps-->App Manager-->(Your Connected App)-->View-->Consumer Secret-->Click to Reveal-->Copy]",
     "SF_Username": "[API User (Must have API Enabled with Query All Files and View All Data Permissions)]",
     "SF_Password": "[your password here]",
-    "SF_Security_Token": "[from View Profile-->My Personal Information-->Reset My Security Token]",
+    "SF_Security_Token": "[from View Profile-->My Personal Information-->Reset My Security Token]"
 }
