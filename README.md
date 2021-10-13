@@ -6,6 +6,8 @@ Excel Utilities to facilitate Salesforce interaction including:
 
 SFDownloadFiles is an Excel Utility to download multiple files of all types from salesforce into a structured directory.
 
+Watch [A video demonstration and walkthrough](https://youtu.be/-j5OUeVt2Wk) of this utility.
+
 This utility was created to use a report of objects (Usually Cases) to download all files related to those objects into a structured directory with a folder for each object's files.
 
 It works just as well if you just have a list of Content Document Links, or if you want, to download all files into the same directory.
